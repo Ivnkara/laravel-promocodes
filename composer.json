@@ -1,5 +1,5 @@
 {
-  "name": "zgabievi/promocodes",
+  "name": "Ivnkara/promocodes",
   "description": "Promotional Codes Generator for Laravel 5",
   "keywords": [
     "promo code",
@@ -8,7 +8,7 @@
     "laravel",
     "php"
   ],
-  "homepage": "https://github.com/zgabievi/promocodes",
+  "homepage": "https://github.com/Ivnkara/promocodes",
   "license": "MIT",
   "type": "library",
   "authors": [
